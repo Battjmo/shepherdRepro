@@ -16,7 +16,7 @@ export function ShepWrapper({ children }: { children: React.ReactNode }) {
   const tourSteps: any = [
     {
       id: "welcome",
-      text: "Welcome to Valquery! This is a quick tour of the features you can expect to find here.",
+      text: "Welcome to A Test Project! This is a quick tour of the features you can expect to find here.",
       attachTo: {
         element: "#tutorialAnchor",
         on: "bottom",
@@ -43,7 +43,7 @@ export function ShepWrapper({ children }: { children: React.ReactNode }) {
     },
     {
       id: "secondi",
-      text: "Welcome to Valquery! This is a quick tour of the features you can expect to find here.",
+      text: "Welcome to A Test Project! This is a quick tour of the features you can expect to find here.",
       attachTo: {
         element: "#tutorialAnchor",
         on: "top",

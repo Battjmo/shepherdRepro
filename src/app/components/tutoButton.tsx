@@ -12,7 +12,7 @@ const TutoButton = () => {
       className={`text-white bg-blue rounded invisible xl:visible lg:w-3/12 h-16 md:h-12 
       `}
     >
-      New to Valquery?
+      Start the Tutorial!
     </button>
   );
 };
